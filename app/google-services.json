@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "897417619478",
+    "firebase_url": "https://carbuddy-91ba3.firebaseio.com",
+    "project_id": "carbuddy-91ba3",
+    "storage_bucket": "carbuddy-91ba3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897417619478:android:829fedd966489bc4",
+        "android_client_info": {
+          "package_name": "com.example.jeremylim.carbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897417619478-8461e6tnclv1k64kdafeqf3l4t3rg93v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk0TnMxJtBPHgFLYDB3eBKoB1PhmM4Xbg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
